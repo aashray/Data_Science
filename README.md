@@ -1,4 +1,4 @@
-Data_Science
+Data Science Course Projects
 ============
 
-Fall 2014 Data Science Course at Stony Brook
+My Project based Data Science Course at Stony Brook (Fall 2014).
