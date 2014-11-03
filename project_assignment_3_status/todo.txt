@@ -1,2 +1,0 @@
--Sravanthi - Work on getting Data, very important.
--Varsha and Aashray - Working on evaluating life tables and getting probabbility distributions right.
