@@ -4,7 +4,7 @@ import os
 import sys
 api_key = 'AIzaSyBoFfH_aeX3PsimRsMF1uhzs7RhDqEQJUk'
 file = open("rev_personality_data_1.txt", "wb")
-with open("properties_freebase.txt") as pfile
+with open("properties_freebase.txt") as infile
 with open("../data/personalities_id_aashray_reversed.txt") as infile:
     data=infile.read().splitlines()
     for line in data: 
