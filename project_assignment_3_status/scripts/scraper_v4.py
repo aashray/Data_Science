@@ -8,7 +8,7 @@ import urllib
 import os
 import sys
 api_key = 'AIzaSyBoFfH_aeX3PsimRsMF1uhzs7RhDqEQJUk'                
-file = open("rev11.txt", "wb")
+file = open("personality_data_aashray_rev_new", "wb") # o/p file
 file.write('Name')
 file.write('<<^>>')
 mylist = []
@@ -67,7 +67,7 @@ for s in mylist:
   file.write(s)
   file.write('<<^>>') 
 file.write('\n')
-with open("data1.txt") as infile:
+with open("../data/personalities_id_aashray_reversed.txt") as infile: #i/p person IDs
     data=infile.read().splitlines()   
     for line in data: 
         query=[{'id':line,

@@ -10,7 +10,7 @@ import sys
 import pandas as pd
 actual_data = pd.read_csv('properties_freebase.csv')
 api_key = 'AIzaSyBoFfH_aeX3PsimRsMF1uhzs7RhDqEQJUk'                
-file = open("rev_personality_data_1.txt", "wb")
+file = open("rev_personality_data_aashray_v2.txt", "wb")
 file.write('Name')
 file.write('<<^>>')
 for index, row in actual_data.iterrows():

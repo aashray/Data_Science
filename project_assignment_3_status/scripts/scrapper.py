@@ -3,8 +3,8 @@ import urllib
 import os
 import sys
 api_key = 'AIzaSyBsJOMDBN_Cln1NuTemC30gA-UZCphwsXI'
-file = open("personalities_data_2.txt", "wb")
-with open("personalities_id_trim1.txt") as infile:
+file = open("../data/personalities_data_aashray_rev.txt", "wb")
+with open("../data/personalities_id_aashray_reversed.txt") as infile:
     data=infile.read().splitlines()
     for line in data: 
         query = [{'id': line, 'name': None, 
