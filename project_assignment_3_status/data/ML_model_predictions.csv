@@ -1,33 +1,1 @@
-,Name,Age,pred_age,LifeExpnAge,Occupation
-16,John Glenn,93,2018.5170373985031,96.2,Astronaut
-13,Rev. Billy Graham,96,2021.6167540776685,98.62,Evangelist
-26,Chuck Berry,88,2022.4019832512292,92.64,Guitarist
-0,Queen Elizabeth II,88,2022.4536712896008,93.56,Politician
-22,Zsa Zsa Gabor,97,2022.4790676943674,99.94,Actress
-23,B.B. King,89,2022.5908529893495,93.3,Musician
-21,Olivia de Havilland,98,2022.6901227351493,100.76,Actress
-20,Dick van Dyke,88,2023.0548663551235,92.64,Actor
-17,Charles Manson,79,2023.2270768597223,87.63,Musician
-5,Robert Mugabe,90,2023.448699928935,93.99,Politician
-14,Rupert Murdoch,83,2023.5447851603874,89.65,Business magnate
-9,Helmut Schmidt,95,2023.5790241010877,97.79,Politician
-19,Doris Day,90,2023.6385493175692,94.8,Actress
-3,Fidel Castro,88,2023.7908650719855,92.64,Politician
-6,Shimon Peres,91,2023.831981792595,94.7,Politician
-12,Lee Kwan Yew,91,2023.9297187997206,94.7,Politician
-25,Kirk Douglas,97,2023.9398761283753,99.47,Actor
-2,Jimmy Carter,90,2023.9792722533316,93.99,Politician
-1,George Herbert Walker Bush,90,2023.9792722533316,93.99,Politician
-8,Hosni Mubarak,86,2024.0299851614163,91.38,Politician
-30,Abe Vigoda,93,2024.1359648365217,96.2,Actor
-24,Clint Eastwood,84,2024.3525380465844,90.21,Actor
-31,Fats Domino,86,2024.6770321281394,91.38,Pianist
-27,Jerry Lee Lewis,79,2025.0737225050862,87.63,Singer
-4,Pope Benedict,87,2025.4010599639942,92.0,Pope-elect
-10,Henry Kissinger,91,2025.8705038778617,94.7,Diplomat
-29,Keith Richards,70,2026.6210639851238,84.07,Musician
-7,Ali Khamenei,75,2026.8030653790095,85.89,Politician
-28,Mick Jagger,71,2027.053828728569,84.4,Musician
-15,Dick Cheney,73,2027.5940197497093,85.12,Politician
-18,Stephen Hawking,72,2029.7939838575498,84.75,Physicist
-11,Bashar al-Assad,49,2041.0320867445307,79.31,Politician
+,Name,Age,pred_age,LifeExpnAge,Occupation16,John Glenn,93,2014.506646,96.2,Astronaut26,Chuck Berry,88,2017.481239,92.64,Guitarist22,Zsa Zsa Gabor,97,2018.30822,99.94,Actress21,Olivia de Havilland,98,2018.447194,100.76,Actress23,B.B. King,89,2018.775042,93.3,Musician19,Doris Day,90,2019.405281,94.8,Actress17,Charles Manson,79,2019.759287,87.63,Musician0,Queen Elizabeth II,88,2019.772374,93.56,Politician14,Rupert Murdoch,83,2020.414789,89.65,Business magnate13,Rev. Billy Graham,96,2020.534492,98.62,Evangelist20,Dick van Dyke,88,2021.170481,92.64,Actor9,Helmut Schmidt,95,2021.252973,97.79,Politician5,Robert Mugabe,90,2021.496799,93.99,Politician25,Kirk Douglas,97,2021.556021,99.47,Actor31,Fats Domino,86,2021.697523,91.38,Pianist6,Shimon Peres,91,2021.73877,94.7,Politician12,Lee Kwan Yew,91,2021.810692,94.7,Politician3,Fidel Castro,88,2021.843846,92.64,Politician1,George Herbert Walker Bush,90,2021.887231,93.99,Politician2,Jimmy Carter,90,2021.887231,93.99,Politician30,Abe Vigoda,93,2021.961122,96.2,Actor4,Pope Benedict,87,2021.963912,92,Pope-elect8,Hosni Mubarak,86,2022.134489,91.38,Politician27,Jerry Lee Lewis,79,2022.160579,87.63,Singer24,Clint Eastwood,84,2022.567495,90.21,Actor10,Henry Kissinger,91,2022.810407,94.7,Diplomat29,Keith Richards,70,2023.228275,84.07,Musician28,Mick Jagger,71,2023.617955,84.4,Musician7,Ali Khamenei,75,2025.116649,85.89,Politician15,Dick Cheney,73,2025.919124,85.12,Politician18,Stephen Hawking,72,2027.953274,84.75,Physicist11,Bashar al-Assad,49,2039.193286,79.31,Politician
