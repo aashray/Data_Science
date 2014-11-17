@@ -45,7 +45,7 @@ Ghoul Pool}
 % their surnames. This ensures that the names appear correctly in
 % the running heads and the author index.
 %
-\author{Aashray Arora \and Varsha Paidi \and Sravanthi Pereddy\and Udit Gupta}
+\author{Aashray Arora \and Varsha Paidi \and Sravanthi Pereddy \and Udit Gupta}
 %
 \authorrunning{Aashray Arora \and Varsha Paidi \and Sravanthi Pereddy \and Udit Gupta}
 % (feature abused for this document to repeat the title also on left hand pages)
@@ -80,8 +80,21 @@ the abstract section}
 
 
 \section{Background Updates} 
-
 State your challenge, and summarize any new literature, data set and images/video you have encountered since the progress report.  (2 min / 2 pages)
+
+\subsection{Challenge}
+
+Our challenge is to predict/model the risks of people dying. Given a set of 32 personalities, the goal is to predict the probability of death for each of the personalities. The personality with the highest probability of death, has higher chances of kicking the bucket first.To achieve this, our initial baseline model assigned the probability of death from Life Tables to each of the personalities based on their respective current age and gender. From the assigned probabilities, predictions were made as to which celebrity would have kicked the bucket first.
+
+Initial baseline model was completely modeled around the probability of death obtained from World Health Organization Life Table.What is a Life Table? It is a table which shows for each age, what the probability is that a person of that age and gender will die before his or her next birthday.[1- cite wikipedia source] It also depicts the survivorship and life expectancy for people at different ages.
+
+
+Initially, World Health Organization(WHO) Life Tables were considered to obtain the probability of death and for the evaluation of the Life Tables. But they were inappropriate for our baseline model and hence for the evaluation of the Life Tables. This is because the WHO Life Tables gave importance to smaller age population than the population at higher age range. The probabilities assigned to people above 100 years of age is 1 which is to some extent ambiguous. While this was not the case for Social Security Administration(SSA) Life Tables. Hence the SSA Life Tables are appropriate for model and the evaluation of Life Tables.
+
+-- How the evaluation is don
+
+New data set?
+
 
 \section{Data Matrices}
 
