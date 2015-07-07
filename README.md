@@ -1,5 +1,5 @@
-Data_Science
-============
+Data Science Project Fall 2014
+==============================
 
 Fall 2014 Data Science Course at Stony Brook with Prof. Steven Skiena.
 This was a completely project based course. My team and I worked on the the Ghool Pool Project.
