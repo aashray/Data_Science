@@ -4,8 +4,8 @@ Data_Science
 Fall 2014 Data Science Course at Stony Brook with Prof. Steven Skiena.
 This was a completely project based course. My team and I worked on the the Ghool Pool Project.
 
-Challenge / background descriptions
-===================================
+Challenge:
+=========
 Ghoul pool is a game of prediction which involves guessing when someone will die. 
 Our challenge is to predict/model the risks of people dying . 
 We are given 32 celebrities, from different professions and countries, at a high risk of dying, because of age or lifestyle. The goal is to predict the death (probability) for each of the personalities.
